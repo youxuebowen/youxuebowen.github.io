@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+谢谢你来到我的网站：
+       很幸运遇到你，这是在下第一次进行网站运行，里面会有很多不足。诚挚地恳请各位来访者在下方留言区留言，留下您宝贵的意见，带走一份美好。
 You can use the [editor on GitHub](https://github.com/youxuebowen/youxuebowen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
